@@ -22,10 +22,10 @@ background-color:#7acec2;
 
 /* banner area  */
 
-/* .site-main .site-banner {
+.site-main .site-banner {
     background: url(/img/WEB\ DEVELOPMENT.png) no-repeat;
     background-position: 0% 50%; */
-}
+} 
 .site-main .site-banner .site-title h3{
     padding-top: 35%;
     font-weight: 500;
